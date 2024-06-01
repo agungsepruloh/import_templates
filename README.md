@@ -4,9 +4,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
-[base_model_signature](base_model_signature/) | 17.0.1.0.0 | [![agungsepruloh](https://github.com/agungsepruloh.png?size=30px)](https://github.com/agungsepruloh) | This module helps users to manage signature for each models.
-[company_signature](company_signature/) | 17.0.1.0.0 | [![agungsepruloh](https://github.com/agungsepruloh.png?size=30px)](https://github.com/agungsepruloh) | This module helps users to manage signature for the company.
-[employee_signature](employee_signature/) | 17.0.1.0.0 | [![agungsepruloh](https://github.com/agungsepruloh.png?size=30px)](https://github.com/agungsepruloh) | This module helps users to manage signature for the employee.
-[users_signature](users_signature/) | 17.0.1.0.0 | [![agungsepruloh](https://github.com/agungsepruloh.png?size=30px)](https://github.com/agungsepruloh) | This module helps users to manage signature for the user.
+[import_purchase_template](import_purchase_template/) | 17.0.1.0.0 | [![agungsepruloh](https://github.com/agungsepruloh.png?size=30px)](https://github.com/agungsepruloh) | This module helps users to import Purchase Order using excel file template.
+[import_sale_template](import_sale_template/) | 17.0.1.0.0 | [![agungsepruloh](https://github.com/agungsepruloh.png?size=30px)](https://github.com/agungsepruloh) | This module helps users to import Sales Order using excel file template.
 
 [//]: # (end addons)

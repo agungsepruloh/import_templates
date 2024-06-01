@@ -1,0 +1,1 @@
+This module helps users to import Sales Order using excel file template.

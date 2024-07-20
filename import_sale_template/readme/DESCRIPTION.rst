@@ -16,14 +16,14 @@ Features
 Screenshots
 ^^^^^^^^^^^
 
-.. image:: https://apps.odoocdn.com/apps/assets/17.0/import_sale_template/screenshots/screenshot_1.png
+.. image:: https://apps.odoocdn.com/apps/assets/16.0/import_sale_template/screenshots/screenshot_1.png
     :alt: Import records menu in Sales module
     :width: 100%
 
-.. image:: https://apps.odoocdn.com/apps/assets/17.0/import_sale_template/screenshots/screenshot_2.png
+.. image:: https://apps.odoocdn.com/apps/assets/16.0/import_sale_template/screenshots/screenshot_2.png
     :alt: Download Excel file template
     :width: 100%
 
-.. image:: https://apps.odoocdn.com/apps/assets/17.0/import_sale_template/screenshots/screenshot_3.png
+.. image:: https://apps.odoocdn.com/apps/assets/16.0/import_sale_template/screenshots/screenshot_3.png
     :alt: Import Sales Order using excel file template
     :width: 100%
